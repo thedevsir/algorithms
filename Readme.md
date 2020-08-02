@@ -1,4 +1,4 @@
-# Algorithms and DataStructures
+# Algorithms and Data Structures
 
 Practice and implementation of algorithms and data structure in varous languages
 
